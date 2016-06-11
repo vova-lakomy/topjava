@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 
 /**
  * GKislin
- * 31.05.2015..
+ * 31.05.2015.
  */
 public class UserMealsUtil {
     public static void main(String[] args) {
